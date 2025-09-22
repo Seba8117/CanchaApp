@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="BD_CanchApp" id="1C36A747-C9F1-0F89-BA4B-F19A1FD80C58" version="3.5">
+<createdBy>matia</createdBy>
+<createdTime>2025-09-16 14:21:51 UTC</createdTime>
+<ownerDesignName>BD_CanchApp</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>1C36A747-C9F1-0F89-BA4B-F19A1FD80C58</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="690EFA12-6F95-385E-BDFE-1F5DE13BF1DD">
+<designStoragePath>D:\oracle24_sports_platform_schema_clean</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
